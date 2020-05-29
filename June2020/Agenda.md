@@ -5,15 +5,13 @@
 
  * Approval of minutes and agenda.
  * Revisit closure.
-    > Motion to reopen the space for meetings and classes.
+    * Motion to reopen the space for meetings and classes.
 
 ## Finance
 
 ### Motions
  * Investigate grant opportunities
- > Ask someone to investigate the sources/grants listed on the Trello board? Even though we’re breaking even, it can’t hurt to get more money especially if we don’t have to pay it back.
- >
- > We may be able to get help from BCAH with finding grants and applying for them.
+    * Ask someone to investigate the sources/grants listed on the Trello board? Even though we’re breaking even, it can’t hurt to get more money especially if we don’t have to pay it back. We may be able to get help from BCAH with finding grants and applying for them.
 
 ### Reports
 
