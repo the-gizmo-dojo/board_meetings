@@ -41,6 +41,18 @@
 
  * None
 
+## Outreach
+
+### Motions
+
+ * New Social Media Pictures.
+ * Get google maps info corrected
+ * Website 3.0
+
+### Reports
+ 
+ * None
+
 ## New business
 
  * Move board meeting agendas to Github
