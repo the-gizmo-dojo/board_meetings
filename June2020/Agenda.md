@@ -45,13 +45,13 @@
 
 ### Motions
 
- * New Social Media Pictures.
- * Get google maps info corrected
- * Website 3.0
+ * None
 
 ### Reports
  
- * None
+ * New Social Media Pictures. (Richard & Mia)
+ * Get google maps info corrected ()
+ * Website 3.0 (Richard)
 
 ## New business
 
