@@ -32,7 +32,7 @@ We may be able to get help from BCAH with findinggrants and applying for them.**
 
  * New membership income tracking notebook (Richard)
 
- **In writing on github**
+ **[In writing on github](https://github.com/the-gizmo-dojo/tracking_notebooks)**
  * Fundraising - t-shirts (Richard)
 
  **No luck w/ contacts, will continue investigating**
