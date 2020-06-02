@@ -1,4 +1,4 @@
-# Minutes Agenda  - June 2020
+# Minutes  - June 2020
 ---
 Mia Sherman, Richard Lasher, Moe Sherman, Gary Skinner, Zachary Morrow, Justin Nesselrotte, Andy Taylor, Stephanie Daniels, Erin H. 6:01 start
 ## Old business
