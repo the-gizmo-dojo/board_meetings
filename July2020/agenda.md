@@ -40,6 +40,8 @@
 ### Reports
 * Mia & Richard talked about leaving a point-&-shoot at the space, asking members to take pictures of what they work on, & pulling things off the SD on a regular schedule. Richard said he might have a spare?
 
+* New wordpress website is up.  We need content (copy and photos).
+
 ## Space / Equipment
 
 ### Motions
@@ -47,5 +49,7 @@
 
 ### Reports
 * Andy Taylor donated a lot of tools, including two metal cutoff-saws, reciprocating saw, Dremel, and a portable compressor. The rest are still being gone through.
+
+* Network has been labeled and a new Server is installed.  This will be the door server.
 
 ## New business
