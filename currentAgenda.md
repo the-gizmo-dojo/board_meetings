@@ -14,14 +14,13 @@ August 3rd, 2020
 
 
 ## Finance
-  * There is an old list of grant possibilities in the Financial folder in Officers drive. Someone should go through it and figure out what's active and what we're eligible for, and apply for things. These do not have to be the same person.
-  * Re ColoradoGives.org: There is now an "approved by IRS for at least 5 years" clause in the eligibility requirements. As signups only run until August 31, we wouldn't be able to apply until 2022. What does our most current (2019) 990 look like? Are we close enough to $25k in net assets that we could get some donations and push the 2020 filing over? That would enable us to apply in 2021.
-
 
 ### Motions
 
 ### Reports
 
+  * There is an old list of grant possibilities in the Financial folder in Officers drive. Someone should go through it and figure out what's active and what we're eligible for, and apply for things. These do not have to be the same person.
+  * Re ColoradoGives.org: There is now an "approved by IRS for at least 5 years" clause in the eligibility requirements. As signups only run until August 31, we wouldn't be able to apply until 2022. What does our most current (2019) 990 look like? Are we close enough to $25k in net assets that we could get some donations and push the 2020 filing over? That would enable us to apply in 2021.
 
 
 ## Events
