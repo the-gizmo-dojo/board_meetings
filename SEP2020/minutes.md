@@ -3,7 +3,7 @@
 Sep 7th, 2020
 
 6:27 - 7:10
-Drew, Mia, Zach, Mia.
+Drew, Mia, Zach, Mia, Andreas.
 
 ---
 
@@ -29,6 +29,8 @@ Drew, Mia, Zach, Mia.
   - Todo submitting tax forms.
   - Banner month for P&L
   - Will look into retail "smile" programs.
+  
+  - Members: Michael Du suspending membership until finances improve; Moe may be suspending his as well
 
 ## Events
 
@@ -68,12 +70,12 @@ Drew, Mia, Zach, Mia.
     - Zak w/o objections.
   - Media
     - Drew w/o objections.
-  - Mia will handover passwords.
+    - Mia will handover passwords & act as backup.
+    
   - Education
     - Mia will take responsibility w/o accepting role.
   - Secretary
-
     - Richard will take responsibility w/o accepting role.
 
   - Shop manager
-    - We will discuss role w/ Andreas.
+    - We will discuss role w/ Andreas after he gets settled in.
