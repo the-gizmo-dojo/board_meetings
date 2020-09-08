@@ -24,7 +24,7 @@ Drew, Mia, Zach, Mia, Andreas.
 
 - Treasurer's report
 
-  - SBA at credit union wants 50k or we pay \$20/month. Seems Like a recent policy.
+  - SBA at credit union wants 50k or we pay \$20/month. Seems like a recent policy.
   - Still needs to contact CO gives, year away and purely info finding
   - Todo submitting tax forms.
   - Banner month for P&L
@@ -59,6 +59,7 @@ Drew, Mia, Zach, Mia, Andreas.
 ### Reports
 
 - New member, Andreas, has set up his equipment where the 3D printers were. He has also put in a new band saw.
+- Forgot to mention, we now have a licensed copy of Lightburn for the lasercutter. Mia paid for it, but it's in TGD's name.
 
 ## New business
 
