@@ -15,6 +15,10 @@ Oct 5th, 2020
 
 ### Motions
 
+Provide public access (website link) to Gizmo Dojo Bylaws, for anyone interested in reading them.
+
+Creation of Tool/Shop Master or similar role as an officer position as an amendment to Bylaws?
+
 ### Reports
 
 - Treasurer's report 
