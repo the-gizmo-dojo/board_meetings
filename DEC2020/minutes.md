@@ -40,6 +40,7 @@ Drew, Zak, Richard, Gary
 - Create a list of items to remove.
     - Pictures will be added to the list.  The list will be posted on \#officers slack channel for discussion.
     Drew has line-item veto power over what's on the list.  After a week, the items on the list will be removed.
+    - Passed 4-0
 - Adopt new org chart.
     - No vote taken, no discussion. 
 - Slack announcement's channel.
