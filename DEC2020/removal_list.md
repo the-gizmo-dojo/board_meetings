@@ -1,0 +1,15 @@
+- Box of computor speakers
+- 2 boxes of lenovo AC adapters
+- Power strip
+- Rubbermaid style bins. (2 small, one large, assorted lids)
+- Filter box
+- Antiwear bucket
+- 2 caulk guns
+- Drywall anchors
+- Halloween bowl
+- Air filters (11)
+- Air hose w/ carrier
+- Small toolbox
+- Wall storage drawers
+- Foil roasting tray
+- Styrofoam cooler
