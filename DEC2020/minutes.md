@@ -1,8 +1,12 @@
 # Agenda  - December 2020
 
 Call to order 7:20
+
 Call to recess 7:31
+
+Officers present:
 Drew, Zak, Richard, Gary
+
 ---
 
 ## Old business
