@@ -1,8 +1,12 @@
 # Agenda  - December 2020
 
 Call to order 7:20
+
 Call to recess 7:31
+
+Officers present:
 Drew, Zak, Richard, Gary
+
 ---
 
 ## Old business
@@ -36,6 +40,7 @@ Drew, Zak, Richard, Gary
 - Create a list of items to remove.
     - Pictures will be added to the list.  The list will be posted on \#officers slack channel for discussion.
     Drew has line-item veto power over what's on the list.  After a week, the items on the list will be removed.
+    - Passed 4-0
 - Adopt new org chart.
     - No vote taken, no discussion. 
 - Slack announcement's channel.
