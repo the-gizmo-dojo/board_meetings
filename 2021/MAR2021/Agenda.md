@@ -34,6 +34,7 @@
 
 * Removal of items.
 * Removal of the injection machine.
+    * Belongs to John Taylor of Geekify; we have his contact info.
 
 ## Membership
  
