@@ -15,16 +15,26 @@
 ## Events
  
 ### Motions
-* 
+ 
 ### Reports
-* 
+ 
 ## Education
  
 ### Motions
-* 
-### Reports
-* 
  
+### Reports
+ 
+## Facilities
+
+### Reports
+
+* Andreas space cleaning
+
+### Motions
+
+* Removal of items.
+* Removal of the injection machine.
+
 ## Membership
  
 ### Reports
