@@ -29,6 +29,7 @@
 ### Reports
 
 * Andreas space cleaning
+* We need more RFID tags activated.
 
 ### Motions
 
