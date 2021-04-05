@@ -39,6 +39,7 @@ Reconcilation is coming.
 ### Reports
 
 * Andreas space cleaning
+* We need more RFID tags activated.
 
 Look for ways to dump differnt materials
 Mill is almost operational 

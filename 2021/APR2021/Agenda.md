@@ -38,7 +38,8 @@ April 5 2021
 ## Membership
  
 ### Reports
-* 
+* Door is operational.  
+>We've already added/deactivated a few keys on the fly.  The frontend is written but there's a few bugs that need to be fixed, until then Richard can add keys directly in the database or you can ask him to add you to the google cloud project so that you have access.
 ### Motions
 * 
 ## New business
