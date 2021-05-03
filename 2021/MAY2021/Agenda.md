@@ -1,47 +1,48 @@
 # Agenda  - MAY 2021
+May 3 2021
 ---
 
 ## Old business
-* Approval of minutes and agenda. 
- 
-## Finance
- 
-### Reports
 
-* Finance Report
+* Approval of minutes and agenda.
+* Revisit COVID policies; refer to https://covid19.colorado.gov/mask-guidance & https://broomfield.org/3123/COVID-19-Information for state/county recommendations.
+
+
+## Finance
 
 ### Motions
-
-* Nobrolla is moving.  We need to get new tenets. 
+*
+### Reports
+* Treasurer's Report
 
 ## Events
- 
-### Reports
-* 
+
 ### Motions
-* 
+*
+### Reports
+*
+
 ## Education
- 
-### Reports
-* 
+
 ### Motions
-* 
- 
+*
+### Reports
+*
+
 ## Facilities
- 
 ### Reports
-
-* Door ui is now up.  A guide is posted in slack.
-* Andreas has done a ton of work getting the space in shape.  We should tell him to slow down.
-
+* State of the shop.
+* Door ui is up.  The guide is in slack.
 ### Motions
-* 
- 
+* We should start labeling tools/spaces/projects
+* Andreas has made a good deal of progress in the shop.  One of the side effects of his process is that things temporarily look worse.  We should have him slow down now that a lot of stuff is done.
+
 ## Membership
- 
+
 ### Reports
-* 
+*
 ### Motions
-* 
+*
+
 ## New business
-* 
+*
