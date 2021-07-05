@@ -41,3 +41,4 @@
 * Interested space lease, Bike shelters.
 * Richard behind on rent?
 * Welding genny theft? 
+* Next board meeting in person?
