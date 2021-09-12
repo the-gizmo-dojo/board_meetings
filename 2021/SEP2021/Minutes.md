@@ -8,10 +8,10 @@ Andreas, Justin, Moz, Tom
 Michael
 
 * dissolution
- * drew - No
- * Richard - No
- * Zak - No
- * Gary - Yes
+  * drew - No
+  * Richard - No
+  * Zak - No
+  * Gary - Yes
 
 * Vice President.
   * Richard nominates Andreas.  Passes unanimously
