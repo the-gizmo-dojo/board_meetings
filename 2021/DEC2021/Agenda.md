@@ -37,7 +37,7 @@
 * 
 ### Motions
 
-* Draft new membership conflict resolution policy.
+* Adopt new membership conflict resolution policy.
 * Reinstate Mia.
 * Reinstate Justin.
 
